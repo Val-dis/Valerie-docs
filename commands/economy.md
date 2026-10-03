@@ -33,7 +33,7 @@ these can't lose you coins.
 | `/work` | ~30 to 300 |
 | `/mine` | ~30 to 300 |
 | `/fish` | ~30 to 300 |
-| `/beg` | 5m cooldown, payout not documented yet |
+| `/beg` | ~30 to 200|
 
 `/mine` and `/fish` pay 25% more with the iron pickaxe and fishing rod from the shop.
 
@@ -43,8 +43,8 @@ bigger payout, but they can go wrong.
 
 | command | win | lose |
 |---|---|---|
-| `/crime` | ~800 to 2,000 | ~100 to 500 |
-| `/slut` | ~800 to 2,000 | ~100 to 500 |
+| `/crime` | ~800 to 2,000 | ~100 to 500 fine |
+| `/slut` | ~800 to 2,000 | ~100 to 500 fine |
 
 - **`/crime`** can fail in a few ways: you trip, you set off an alarm, you pay a fine.
 - **`/slut`** can simply not work out, and you lose coins.
