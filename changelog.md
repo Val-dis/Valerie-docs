@@ -5,6 +5,12 @@ everything valerie has gone through, newest first. all dates are 2026. versions 
 > valerie is a solo, zero-budget project. updates land when they land, uptime varies, and data loss has happened. see [known issues](#known-issues) at the bottom.
 
 ---
+### oct 5 (one hour later than v5.2.4 release) small push update
+
+- multiple bugs are now fixed
+- Valerie will now work in groupchats, dm's, and server shes not added in (if allowed permissions)
+- internal changes due to bugs
+---
 ## oct5 (30 minutes after v5.2.2) bug fixing and regained structure stability
 
 - v5.2.4 (emergency update)
