@@ -28,7 +28,7 @@ found a bug or lost data? open a ticket in the tickets channel. have an idea? dr
 | games | slots, roulette, blackjack, baccarat, minesweeper, towers, coinflip, rps, trivia |
 | utility | ping, avatar, userinfo, serverinfo, inrole, help |
 
-66 public commands in total. run `/help` in the bot for the live list.
+71 public commands in total. run `/help` in the bot for the live list.
 
 ---
 
