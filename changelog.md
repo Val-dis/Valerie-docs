@@ -5,6 +5,13 @@ everything valerie has gone through, newest first. all dates are 2026. versions 
 > valerie is a solo, zero-budget project. updates land when they land, uptime varies, and data loss has happened. see [known issues](#known-issues) at the bottom.
 
 ---
+### oct 23 
+
+- full rewrite done, 
+- added afk status system, along with mention viewing.
+- added serverstats, displays active members, total members, and bots sepperately
+- added 4 new commands (/afk, /afkmentions, /quote and /serverstats)
+---
 ### oct 8-21 (catastrophe)
 
 - owners laptop got completely wiped.
