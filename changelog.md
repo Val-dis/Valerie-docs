@@ -1,8 +1,27 @@
 # changelog
 
-everything valerie has gone through, newest first. all dates are 2026. versions are only listed where they were announced.
+everything valerie has gone through, newest first. all dates are accurate. versions are only listed where they were announced.
 
 > valerie is a solo, zero-budget project. updates land when they land, uptime varies, and data loss has happened. see [known issues](#known-issues) at the bottom.
+
+---
+### oct 25 *RC v0.1*
+
+- added marriage system, it will show on your profile card.
+- added bio *use "/bio text" then your bio* it will show on your profile card.
+- added rep system, give a user 1 rep per day, rep keeps total, even after downtime.
+- added level system, valerie tracks how long you use the bot for, then gives you exp, leveling grants you role *see more info in the server.*
+- added prestige titles, titles gained through activities and goals.
+- added pets, adopt, take care, and love your very own pet, hunger and mood system included!.
+- added /rate, rate anything, seeded per day.
+- added /choose, valerie can now choose from a variety of things you tell it.
+- added /remind, timed reminders so you can always remember at the exact time you need to.
+- added /wanted, shows the top game losses.
+- added /lottery, lottery system! (owner controlled)
+- imporved profile cards
+
+**_this is valeries most feature dense update!, and also the first step into Release Candidate versions!_**
+
 
 ---
 ### oct 24
