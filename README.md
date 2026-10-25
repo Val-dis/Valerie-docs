@@ -2,7 +2,7 @@
 
 a multipurpose discord bot with social commands, an economy, a shop, casino-style games and utilities. built in python, closed source. this repo is documentation only.
 
-`beta v5.5`
+`beta v5.5.2`
 
 ---
 
