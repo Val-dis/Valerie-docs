@@ -20,7 +20,7 @@ everything valerie has gone through, newest first. all dates are accurate. versi
 - added /lottery, lottery system! (owner controlled)
 - imporved profile cards
 
-**_this is valeries most feature dense update!, and also the first step into Release Candidate versions!_**
+**_this is valeries most feature dense update! (as this was updated was pushed), and also the first step into Release Candidate versions!_**
 
 
 ---
