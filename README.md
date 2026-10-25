@@ -2,7 +2,7 @@
 
 a multipurpose discord bot with social commands, an economy, a shop, casino-style games and utilities. built in python, closed source. this repo is documentation only.
 
-`beta v5.5.2`
+`RC V0.1`
 
 ---
 
@@ -18,7 +18,7 @@ found a bug or lost data? open a ticket in the tickets channel. have an idea? dr
 
 ## what she does
 
-| category | what's in it |
+| category | what's in it (simplified, full list in server) |
 |---|---|
 | fun | 8ball, jokes, facts, rate commands, emoji combos |
 | media | gifs, animals, memes, nightcore, image to gif, captioning |
@@ -28,7 +28,7 @@ found a bug or lost data? open a ticket in the tickets channel. have an idea? dr
 | games | slots, roulette, blackjack, baccarat, minesweeper, towers, coinflip, rps, trivia |
 | utility | ping, avatar, userinfo, serverinfo, inrole, help |
 
-71 public commands in total. run `/help` in the bot for the live list.
+85 public commands in total. run `/help` in the bot for the live list.
 
 ---
 
@@ -40,10 +40,9 @@ titles can't be bought. you earn them through activity in the community, partner
 
 ## status
 
-valerie is in beta, built by one person with no budget. that means:
+valerie is in RC V0.1, built by one person with no budget. that means:
 
 - uptime varies
-- data saving has been unreliable, and data loss has happened
 - things change fast
 
 the full history is in [`changelog.md`](changelog.md).
