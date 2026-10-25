@@ -10,7 +10,7 @@ everything valerie has gone through, newest first. all dates are accurate. versi
 - added marriage system, it will show on your profile card.
 - added bio *use "/bio text" then your bio* it will show on your profile card.
 - added rep system, give a user 1 rep per day, rep keeps total, even after downtime.
-- added level system, valerie tracks how long you use the bot for, then gives you exp, leveling grants you role *see more info in the server.*
+- added level system, valerie tracks how long you use the bot for, then gives you exp, leveling grants you roles *see more info in the server.*
 - added prestige titles, titles gained through activities and goals.
 - added pets, adopt, take care, and love your very own pet, hunger and mood system included!.
 - added /rate, rate anything, seeded per day.
