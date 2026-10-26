@@ -5,6 +5,10 @@ everything valerie has gone through, newest first. all dates are accurate. versi
 > valerie is a solo, zero-budget project. updates land when they land, uptime varies, and data loss has happened. see [known issues](#known-issues) at the bottom.
 
 ---
+### oct 25 *RC VO.1.5*
+
+- Improved the "/help? command, you can now choose from the full list of commands or just a specific category, this is so it doesnt clutter chat
+---
 ### oct 25 *RC v0.1*
 
 - added marriage system, it will show on your profile card.
