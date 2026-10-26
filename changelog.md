@@ -5,6 +5,26 @@ everything valerie has gone through, newest first. all dates are accurate. versi
 > valerie is a solo, zero-budget project. updates land when they land, uptime varies, and data loss has happened. see [known issues](#known-issues) at the bottom.
 
 ---
+### oct 26 *RC V0.5*
+
+**added**
+
+- /mood, view Valerie's current mood
+- /omen, daily personal omen
+- /blackmarket, browse/buy expensive OP items
+- /cardtheme, profile card background picker, titles unlocked at different levels
+- /confess, anonymous confession in the servers confessions channel
+- /diary, personal private diary, holds 5 notes at a time and overwrites old ones when capped.
+- /birthday set your birthday date
+- /bounty, set a bounty on a player, claim it by robbing them with "/rob".
+- /whois, text profile, for east readibility
+
+**improved**
+
+- /ship, now also displays a ship card with both the users, and percentage
+- /daily, added streaks, higher streaks give bonuses (+25 per day, capped at +500)
+- /profile, themes, marriage and pet lay out, twemoji icons and fixed collection ui
+---
 ### oct 25 *RC VO.1.5*
 
 - Improved the "/help? command, you can now choose from the full list of commands or just a specific category, this is so it doesnt clutter chat
