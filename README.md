@@ -10,7 +10,7 @@ a multipurpose discord bot with social commands, an economy, a shop, casino-styl
 
 valerie is not publicly invitable yet. public testing happens in the support server:
 
-**[join the server](https://discord.gg/mjDGP8Bstu)**
+**[join the server](https://discord.gg/CpxzzRk4SN)**
 
 found a bug or lost data? open a ticket in the tickets channel. have an idea? drop it in suggestions.
 
