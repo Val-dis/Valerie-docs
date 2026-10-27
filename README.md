@@ -2,7 +2,7 @@
 
 a multipurpose discord bot with social commands, an economy, a shop, casino-style games and utilities. built in python, closed source. this repo is documentation only.
 
-`RC V0.5`
+`RC V1`
 
 ---
 
@@ -28,7 +28,9 @@ found a bug or lost data? open a ticket in the tickets channel. have an idea? dr
 | games | slots, roulette, blackjack, baccarat, minesweeper, towers, coinflip, rps, trivia |
 | utility | ping, avatar, userinfo, serverinfo, inrole, help |
 
-85 public commands in total. run `/help` in the bot for the live list.
+**very out dated, check out[`changelog.md`](changelog.md) for the updated list**
+
+125 public commands in total. run `/help` in the bot for the live list.
 
 ---
 
