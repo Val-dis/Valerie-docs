@@ -5,6 +5,59 @@ everything valerie has gone through, newest first. all dates are accurate. versi
 > valerie is a solo, zero-budget project. updates land when they land, uptime varies, and data loss has happened. see [known issues](#known-issues) at the bottom.
 
 ---
+### oct 27 '*RC V1*
+
+**added**
+
+- /bank deposit, move coins from wallet to bank
+- /bank withdraw, move coins from bank to wallet
+- /eco gift, gift an inventory item to someone
+- /eco sets, list or claim collection set rewards
+- /eco drop, drop coins in chat for the first claim
+- /eco jackpot, view the tax jackpot pot
+- /eco career, pick a work path for /work pay and flavor
+- /eco cooldowns, view timed command cooldowns
+- /eco repleaderboard, top reputation
+- /eco weekly, weekly claim
+- /eco streaks, streak viewer
+- /social couple, marriage card with both pfps and since date
+- /social privacy, hide coins and partner from others on profile
+- /social block, block users from viewing your profile balance and whois
+- /social family, adopt leave or view a simple family tree
+- /social status, short status line on the profile card
+- /social frame, profile card frame default silver gold or void
+- /social dream, private dream journal
+- /tarot, 1 to 3 card daily seeded reading
+- /playlist, curated dark and nightcore links
+- /horoscope, daily sign reading
+- /tools invite, bot invite link
+- /tools reminders, list or cancel reminders
+- /tools servericon, show server icon
+- /tools banner, show server banner
+- /tools stats, bot stats
+- /tools cdping, dm when daily or weekly is ready
+- /tools report, send a report to the mod channel
+- /tools stick, sticky note that re posts after new messages
+- /lookup define, dictionary lookup
+- /lookup urban, urban dictionary lookup
+- /lookup color, hex color preview
+
+**improved**
+
+- /balance, shows wallet bank and total
+- /daily, tracks longest streak
+- /give, 5 percent tax half burned half to jackpot confirm on large amounts
+- /rob, only steals from wallet applies tax
+- /leaderboard, ranks wallet plus bank
+- /profile, privacy checks badges frames status line block checks
+- /afk, optional afk nickname with restore and clearer permission errors
+- /birthday, announces in set channel 30 day change limit owner unlimited
+- /help, search with query paged full list and categories groups listed with subcommands
+- /ship, cloud background display name and username spacing fixes
+- command groups
+
+**THIS IS VALERIES DENSEST UPDATE EVER**
+---
 ### oct 26 *RC V0.5*
 
 **added**
